@@ -60,7 +60,7 @@ const Hero = () => {
             <p className="regular-16 text-gray-20">Location</p>
             <Image src="/close.svg"  alt="close" width={24} height={24}/>
           </div>
-          <p className="bold-20 text-white">Kamez, Tirane</p>
+          <p className="bold-20 text-white">Tirane, Albania</p>
           </div>
 
           <div className="flexBetween">

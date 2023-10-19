@@ -53,14 +53,14 @@ const Camp = () => {
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
      <CampSite 
       backgroundImage="bg-bg-img-1"
-      title="Tirane Albania Camp"
-      subtitle= "Kamez, Tirane"
+      title="Lumi i Shales"
+      subtitle= "Shkoder"
       peopleJoined = "50+ Joined"
      /> 
         <CampSite 
       backgroundImage="bg-bg-img-2"
-      title="Tirane Albania Camp"
-      subtitle= "Laprake, Tirane"
+      title="Ujevara e Grunas"
+      subtitle= "Theth"
       peopleJoined = "50+ Joined"
      /> 
       </div>
